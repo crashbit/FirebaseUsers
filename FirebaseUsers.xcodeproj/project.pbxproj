@@ -23,6 +23,7 @@
 		1AA72927F4A1895FAECB0156 /* Pods_FirebaseUsers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FirebaseUsers.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		278B7A5597CEF4450EB5CFC1 /* Pods-FirebaseUsers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseUsers.debug.xcconfig"; path = "Target Support Files/Pods-FirebaseUsers/Pods-FirebaseUsers.debug.xcconfig"; sourceTree = "<group>"; };
 		932C322F7A50196E867BB55F /* Pods-FirebaseUsers.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseUsers.release.xcconfig"; path = "Target Support Files/Pods-FirebaseUsers/Pods-FirebaseUsers.release.xcconfig"; sourceTree = "<group>"; };
+		C18DC3CC25F9A62100230AD2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C1DC7C6025F5B45D00B8576D /* FirebaseUsers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirebaseUsers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1DC7C6325F5B45D00B8576D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C1DC7C6525F5B45D00B8576D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -96,6 +97,7 @@
 				C1DC7C7125F5B46300B8576D /* Info.plist */,
 				C1EA88A825F8AE15000FEA71 /* RegisterViewController.swift */,
 				C1EA88AB25F8B372000FEA71 /* WelcomeViewController.swift */,
+				C18DC3CC25F9A62100230AD2 /* README.md */,
 			);
 			path = FirebaseUsers;
 			sourceTree = "<group>";
